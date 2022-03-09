@@ -20,7 +20,9 @@
 <div style="display: inline_block"><br>
   
   :<img align="center" alt="Danielys-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">:
-  <img align="center" alt="Danielys-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Danielys-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">:
+  <img align="center" alt="Danielys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   
   <img align="right" alt="Danielys-gif" height="150" style="border-radius:90px;" src="https://cdn.discordapp.com/attachments/817838685063741512/946757512856756264/Webp.net-gifmaker.gif">
 </div>
