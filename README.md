@@ -4,8 +4,6 @@
 
 - 🌐 Futuramente: Dev Full Stack
 - ☕ Pronomes: Ela/Dela; Elu/Delu 
-- 🌱 Estudando: HTML, CSS e Js
-- 🤓 Apaixonada por tecnología
 
 ##
 
