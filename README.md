@@ -1,37 +1,102 @@
-## Hi there! Eu sou a Danielys!
+<h1 align='center' >🍁 Olá, Bienvenidos! 🍁</h1>
+
+<br>
+
+<p>Sou Danielys, uma jovem nerd apaixonada por computadores e viciada em café. Formada como desenvolvedora Web Full Stack pela Resilia Educação no programa Códigos do Amanhã da empresa Ebanx. 
+
+<br> 
+
+Aqui você encontrará a prova direta de meu progresso em programação. Desde meu primeiro ''Hello World'' e projetos com alert até ... bom, agora mesmo! Espero que disfrute :D</p>
 
 ##
 
-- 🌐 Futuramente: Dev Full Stack
-- ☕ Pronomes: Ela/Dela; Elu/Delu 
+<h2 align='center'>◻️ Conteúdos ◻️</h2>
+
+<p align="center">
+ <a href="#principais-projetos"> Principais Projetos</a> •
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#contato">Contato</a> • 
+ <a href="#status">Status</a> • 
+</p>
 
 ##
+
+<h2>Principais Projetos</h2>
+ 
+##
+  
+  <h3>1) CineDiva - Projeto Resilia Educação</h3>
+  
+  Sobre: Construção de um site responsivo com React para filmes e series lgbtqa+ que permite aplicar os endpoints de uma API Rest
+  
+  https://github.com/Jessicacintra-eng/CineDev.git
+  
+  <h3>2) DailyCheck - Projeto Resilia Educação</h3>
+  
+  Sobre: Construção de um site responsivo com JavaScript, HTML, CSS e Bootstrap para um app organizador de tarefas e gestão de produtividade. 
+  
+  https://github.com/Danielysdavils/projeto_Mod_2.git
+  
+  <h3>3) Estudio Tatto - Projeto Resilia Educação</h3>
+   
+  Sobre: Construção de uma Api Rest com NodeJs aplicando o padrão de arquitetura de software MVC. Conectada a um banco de dados relacional: o SQLite3, que permite efetuar todos os verbos do CRUD. 
+  
+  https://github.com/Danielysdavils/EstudioTatto_M4.git
+  
+  ##
+  
+ <h2>Tecnologias</h2>
+ 
+  ## 
+  
+  <div align='center'>
+    <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+    <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
+    <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white'>
+    <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
+    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
+    <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
+    <img src='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white'>
+    <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+    <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
+    <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
+    <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'>
+    <img src='https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white'>
+  </div>
+ 
+##
+
+<h2>Contato</h2>
+
+--> Informações:
+  
+  <div>
+    <a href="mailto:danielisdavils@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+  </div>
+
+--> Redes Sociais:
+
+  <div>
+    <a href='https://www.instagram.com/dn_lin15/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
+    <a href='https://www.linkedin.com/in/danielys-davila/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  </div>
+
+
+##
+  
+ <h2>Status</h2>
+ 
+## 
 
 <div align="center">
   <a href="https://github.com/danileysdavils">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielysdavils&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielysdavils&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  
- ##
-  
-<div style="display: inline_block"><br>
-  
-  :<img align="center" alt="Danielys-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">:
-  <img align="center" alt="Danielys-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">:
-  <img align="center" alt="Danielys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  
-  <img align="right" alt="Danielys-gif" height="150" style="border-radius:90px;" src="https://cdn.discordapp.com/attachments/817838685063741512/946757512856756264/Webp.net-gifmaker.gif">
-</div>
-  
-  ##
- 
-<div> 
 
-  <a href="https://www.instagram.com/dn_lin15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danielysdavils@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+##
+
   ![Snake animation](https://github.com/danielysdavils/danielysdavils/blob/output/github-contribution-grid-snake.svg)
  
 </div>
