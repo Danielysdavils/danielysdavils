@@ -1,4 +1,4 @@
-<h1 align='center' >🍁 Olá, Bienvenidos! 🍁</h1>
+<h1 align='center' >🍁 Olá, Bienvenides! 🍁</h1>
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <br> 
 
-Aqui você encontrará a prova direta de meu progresso em programação. Desde meu primeiro ''Hello World'' e projetos com alert até ... bom, agora mesmo! Espero que disfrute :D</p>
+Aqui você encontrará a prova direta de meu progresso em programação. Desde meu primeiro ''Hello World'' e projetos com alert até ... bom, trabalhos um pouco melhores que meu primeiro hello world! Espero que seja de seu agrado ;D</p>
 
 ##
 
