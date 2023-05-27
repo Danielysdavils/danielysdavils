@@ -2,7 +2,7 @@
 
 <br>
 
-<p>Sou Danielys, uma jovem nerd apaixonada por computadores e viciada em café. Formada como desenvolvedora Web Full Stack pela Resilia Educação no programa Códigos do Amanhã da empresa Ebanx. 
+<p>Sou Danielys, uma jovem nerd apaixonada por computadores e viciada em café. Formada como desenvolvedora Web Full Stack pela Resilia Educação no programa Códigos do Amanhã da empresa Ebanx. Atualmente, estudante de Ciência da Computação na UFPR e integrante do grupo multidisciplinar de Robótica Yapira.  
 
 <br> 
 
@@ -78,7 +78,6 @@ Aqui você encontrará a prova direta de meu progresso em programação. Desde m
 --> Redes Sociais:
 
   <div>
-    <a href='https://www.instagram.com/dn_lin15/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
     <a href='https://www.linkedin.com/in/danielys-davila/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   </div>
 
