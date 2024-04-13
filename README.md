@@ -2,12 +2,8 @@
 
 <br>
 
-<p>Sou Danielys, uma jovem nerd apaixonada por computadores e viciada em café. Formada como desenvolvedora Web Full Stack pela Resilia Educação no programa Códigos do Amanhã da empresa Ebanx. Atualmente, estudante de Ciência da Computação na UFPR e integrante do grupo multidisciplinar de Robótica Yapira.  
-
-<br> 
-
-Aqui você encontrará a prova direta de meu progresso em programação. Desde meu primeiro ''Hello World'' e projetos com alert até ... bom, trabalhos um pouco melhores que meu primeiro hello world! Espero que seja de seu agrado ;D</p>
-
+<p>Estudante de Ciência da Computação na UFPR e formada como desenvolvedora Web Full Stack pela Resilia Educação no programa Códigos do Amanhã da empresa Ebanx.
+ 
 ##
 
 <h2 align='center'>◻️ Conteúdos ◻️</h2>
