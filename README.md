@@ -1,5 +1,3 @@
-<h1 align='center' >🍁 Olá, Bienvenides! 🍁</h1>
-
 <br>
 
 <p>Estudante de Ciência da Computação na UFPR e formada como desenvolvedora Web Full Stack pela Resilia Educação no programa Códigos do Amanhã da empresa Ebanx.
