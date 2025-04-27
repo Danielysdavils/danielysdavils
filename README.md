@@ -12,32 +12,8 @@
  <a href="#contato">Contato</a> • 
  <a href="#status">Status</a> • 
 </p>
-
-##
-
-<h2>Principais Projetos</h2>
- 
-##
   
-  <h3>1) CineDiva - Projeto Resilia Educação</h3>
-  
-  Sobre: Construção de um site responsivo com React para filmes e series lgbtqa+ que permite aplicar os endpoints de uma API Rest
-  
-  https://github.com/Jessicacintra-eng/CineDev.git
-  
-  <h3>2) DailyCheck - Projeto Resilia Educação</h3>
-  
-  Sobre: Construção de um site responsivo com JavaScript, HTML, CSS e Bootstrap para um app organizador de tarefas e gestão de produtividade. 
-  
-  https://github.com/Danielysdavils/projeto_Mod_2.git
-  
-  <h3>3) Estudio Tatto - Projeto Resilia Educação</h3>
-   
-  Sobre: Construção de uma Api Rest com NodeJs aplicando o padrão de arquitetura de software MVC. Conectada a um banco de dados relacional: o SQLite3, que permite efetuar todos os verbos do CRUD. 
-  
-  https://github.com/Danielysdavils/EstudioTatto_M4.git
-  
-  ##
+  ## 
   
  <h2>Tecnologias</h2>
  
