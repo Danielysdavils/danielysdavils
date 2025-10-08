@@ -1,5 +1,5 @@
 <p align="center">
-  🎓 Estudante de Ciências da Computação &nbsp;|&nbsp; 💻 Desenvolvedora de Software &nbsp;|&nbsp; 🌱 Apaixonada por tecnologia e inovação
+  🎓 Estudante de Ciências da Computação &nbsp;|&nbsp; 💻 Desenvolvedora de Software &nbsp;
 </p>
 
 ---
