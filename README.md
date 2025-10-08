@@ -1,5 +1,3 @@
-<h1 align="center">Olá, eu sou Danielys! 👋</h1>
-
 <p align="center">
   🎓 Estudante de Ciências da Computação &nbsp;|&nbsp; 💻 Desenvolvedora de Software &nbsp;|&nbsp; 🌱 Apaixonada por tecnologia e inovação
 </p>
