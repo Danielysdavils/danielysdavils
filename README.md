@@ -4,8 +4,6 @@
 
 ---
 
-### 🌟 Sobre Mim
-
 Sou estudante de **Ciências da Computação** na **Universidade Federal do Paraná (UFPR)**, com experiência prática em desenvolvimento de software nas áreas de front-end, back-end, servidores e sistemas embarcados.
 
 Tenho um grande interesse em solucionar problemas através da tecnologia, sempre buscando aprender novas ferramentas e metodologias para entregar soluções eficientes e eficazes.
